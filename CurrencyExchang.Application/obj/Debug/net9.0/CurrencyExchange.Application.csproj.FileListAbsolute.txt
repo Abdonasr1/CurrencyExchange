@@ -1,0 +1,17 @@
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\bin\Debug\net9.0\CurrencyExchange.Application.deps.json
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\bin\Debug\net9.0\CurrencyExchange.Application.runtimeconfig.json
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\bin\Debug\net9.0\CurrencyExchange.Application.dll
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\bin\Debug\net9.0\CurrencyExchange.Application.pdb
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\bin\Debug\net9.0\CurrencyExchange.Core.dll
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\bin\Debug\net9.0\CurrencyExchange.Core.pdb
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\CurrencyExchange.Application.csproj.AssemblyReference.cache
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\CurrencyExchange.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\CurrencyExchange.Application.AssemblyInfoInputs.cache
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\CurrencyExchange.Application.AssemblyInfo.cs
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\CurrencyExchange.Application.csproj.CoreCompileInputs.cache
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\Currency.0A7F0385.Up2Date
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\CurrencyExchange.Application.dll
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\refint\CurrencyExchange.Application.dll
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\CurrencyExchange.Application.pdb
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\CurrencyExchange.Application.genruntimeconfig.cache
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchang.Application\obj\Debug\net9.0\ref\CurrencyExchange.Application.dll
