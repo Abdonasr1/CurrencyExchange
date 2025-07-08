@@ -1,0 +1,22 @@
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\bin\Debug\net9.0\CurrencyExchange.Core.deps.json
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\bin\Debug\net9.0\CurrencyExchange.Core.dll
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\bin\Debug\net9.0\CurrencyExchange.Core.pdb
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.AssemblyInfoInputs.cache
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.AssemblyInfo.cs
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.csproj.CoreCompileInputs.cache
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.dll
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\refint\CurrencyExchange.Core.dll
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.pdb
+E:\Captain Dev\Intake 11\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\ref\CurrencyExchange.Core.dll
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\bin\Debug\net9.0\CurrencyExchange.Core.deps.json
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\bin\Debug\net9.0\CurrencyExchange.Core.dll
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\bin\Debug\net9.0\CurrencyExchange.Core.pdb
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.AssemblyInfoInputs.cache
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.AssemblyInfo.cs
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.csproj.CoreCompileInputs.cache
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.dll
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\refint\CurrencyExchange.Core.dll
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\CurrencyExchange.Core.pdb
+E:\Emamm cors\Currency\CurrencyExchange\CurrencyExchange.Core\obj\Debug\net9.0\ref\CurrencyExchange.Core.dll
